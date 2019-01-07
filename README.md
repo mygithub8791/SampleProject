@@ -2,7 +2,7 @@
 
 1. Your name : Manpreet Singh
 
-2. Brief instructions for using your solution: I have used asp.net to build webApi and Angular7 as frontend
+2. Brief instructions for using your solution: I have used asp.net to build webApi and Angular7 as front end and sql server as Database
 
 3. What mechanism you have adopted (if any) for handling bad data: I haven't used any kind of mechanisim right now
 
